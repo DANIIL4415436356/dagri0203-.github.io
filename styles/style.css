@@ -1,0 +1,86 @@
+a{
+    text-decoration: none;
+    color: #ff00ff;
+    font-size: 30px;
+    display: block;
+    margin: 20px 0;
+    font-family: monospace;
+    border-line-color:royalblue;
+}
+body{
+    background-color: darkorange;
+}
+.color1{
+    background-color: yellow;
+    color:rgb(7, 255, 255);
+    font-size: 42px;
+    font-family: Ubuntu;
+}
+.color2{
+    background-color: darkgoldenrod;
+    color:rgb(253, 25, 252);
+    font-size: 34px;
+    font-family: cursive;
+}
+.color3{
+    background-color: lawngreen;
+    color:rgb(61, 7, 255);
+    font-size: 64px;
+    font-family: fantasy;
+}
+.color4{
+    background-color: yellowgreen;
+    color:rgb(85, 285, 235);
+    font-size: 70px;
+    font-family: monospace;
+}
+.color5{
+    background-color: rgb(173, 25, 25);
+    color:rgba(10, 71, 15, 0.685);
+    font-size: 63px;
+    font-family: cursive;
+}
+.color6{
+    background-color: rgba(255, 255, 0, 0);
+    color:rgb(1, 355, 68);
+    font-size: 59px;
+    font-family: Ubuntu;
+}
+img{
+    max-width: 90x;
+    height: auto;
+     display: block;
+     margin: 30px;
+}
+p {
+    color:rgb(217, 230, 73);
+    font-size: 30px;
+    font-family: inherit;
+    background-color: darkorange;
+}
+body{
+    background-color: darkred;
+}
+div{ 
+    width: 60%;
+    margin: 70px;
+    padding: 110px;
+    border-style: solid;
+    border-width: 300px;
+    border-color: rgb(255, 0, 0);
+    background-color: yellow;
+     color: royalblue;
+     font-family: cursive;
+     box-shadow: goldenrod;
+}
+h1{
+    color:rgb(0, 255, 0);
+    font-size: 30px;
+    font-family: cursive;
+    background-color: goldenrod;
+}
+p{
+color: darkslateblue;
+background-color: deepskyblue;
+margin: auto;
+}
